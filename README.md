@@ -18,7 +18,7 @@ I'm a recent Computer Science graduate from Eastern Connecticut State University
 ## 📌 Featured Projects
 
 - **[LLM Phishing Email Detection](https://github.com/regan10444/llm-phishing-detection)** — Benchmarked ChatGPT-4, Gemini 1.5 Flash, and Microsoft Copilot on phishing classification using prompt engineering. Presented at two academic conferences.
-- **[Simulated E-Banking System](https://github.com/regan10444/SEBS)** — Full-stack web banking application built with Django and SQLite, featuring user auth, transfers, transaction history, and an admin dashboard.
+- **[Simulated E-Banking System](https://github.com/regan10444/SE_SEBS_project)** — Full-stack web banking application built with Django and SQLite, featuring user auth, transfers, transaction history, and an admin dashboard.
 
 ## Socials
 
